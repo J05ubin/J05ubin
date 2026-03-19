@@ -2,7 +2,7 @@
 
 🎓 CSE Student     💻 Aspiring Software Engineer      📊 Data Science Enthusiast
 
-## 🌐 Portfolio: https://J05ubin.github.io
+🌐 Portfolio: https://J05ubin.github.io
 
 ## 🚀 Skills
 * C++
