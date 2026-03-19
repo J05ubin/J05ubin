@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Jubin Mazumdar 👋
 
-<!--
-**J05ubin/J05ubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student 💻 Aspiring Software Engineer 📊 Data Science Enthusiast
 
-Here are some ideas to get you started:
+## 🚀 Skills
+* C++
+* JavaScript
+* Python
+* SQL
+* HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What I'm doing
+* Solving DSA problems daily
+* Building Web Development projects
+* Exploring Data Science
+
+## 🏆 Achievements
+* LeetCode 50 Days Streak
+
+## 🌐 Portfolio
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?logo=google-chrome)(https://J05ubin.github.io)
+
+## 📫 Contact
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:jubin05mazumdar@gmail.com)
