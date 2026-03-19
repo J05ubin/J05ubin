@@ -2,6 +2,8 @@
 
 🎓 CSE Student     💻 Aspiring Software Engineer      📊 Data Science Enthusiast
 
+## 🌐 Portfolio: https://J05ubin.github.io
+
 ## 🚀 Skills
 * C++
 * JavaScript
@@ -16,9 +18,6 @@
 
 ## 🏆 Achievements
 * LeetCode 50 Days Streak
-
-## 🌐 Portfolio
-https://J05ubin.github.io
 
 ## 📫 Contact
 Email: jubin05mazumdar@gmail.com
