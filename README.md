@@ -1,7 +1,8 @@
 # Hi, I'm Jubin Mazumdar 👋
-🎓 CSE Student     💻 Aspiring Software Engineer      📊 Data Science Enthusiast
+🎓 CSE Student | 💻 Software Developer | 📊 Data Science Enthusiast  
 
-🌐 Portfolio Website: https://J05ubin.github.io
+🌐 [Portfolio Website](https://j05ubin.github.io)
+🔗 [LinkedIn](https://linkedin.com/in/your-username)
 
 ## 💡 About Me
 
