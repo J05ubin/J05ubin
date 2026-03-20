@@ -3,7 +3,7 @@
 
 🌐 Portfolio Website: https://J05ubin.github.io
 
-💡 About Me
+## 💡 About Me
 
 - Passionate about problem-solving and software development  
 - Focused on Data Structures & Algorithms  
@@ -17,7 +17,7 @@
 📚 Core Concepts: Data Structures & Algorithms  
 ⚙️ Tools: Git, GitHub  
 
-📂 Projects
+## 📂 Projects
 
 🔹 Car Valuation Tool  
 - Built an end-to-end machine learning pipeline for used car price prediction  
