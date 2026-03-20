@@ -1,7 +1,7 @@
 # Hi, I'm Jubin Mazumdar 👋
 🎓 CSE Student     💻 Aspiring Software Engineer      📊 Data Science Enthusiast
 
-## 🌐 Portfolio Website: https://J05ubin.github.io
+🌐 Portfolio Website: https://J05ubin.github.io
 
 ## 💡 About Me
 
@@ -26,6 +26,7 @@
 - Deployed an interactive web app using Streamlit for real-time price estimation
 - 🔗 Live Demo: https://car-valuation-tool-jm.streamlit.app
 - 💻 GitHub Repo: https://github.com/J05ubin/Car-Valuation-Tool 
+
   
 🔹 Air Quality Analysis Dashboard  
 - Built interactive dashboard using Power BI  
