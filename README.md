@@ -47,8 +47,8 @@
 ## 📫 Contact
 
 📧 Email: jubin05mazumdar@gmail.com  
-🔗 LinkedIn: http://www.linkedin.com/in/jubin05
-🌐 Portfolio: http://j05ubin.github.io 
+🔗 LinkedIn: linkedin.com/in/jubin05
+🌐 Portfolio: j05ubin.github.io 
 
 ⭐ Feel free to check out my repositories and connect with me!
 
