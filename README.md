@@ -3,9 +3,8 @@
 
 🌐 [Portfolio](https://j05ubin.github.io) | 🔗 [LinkedIn](https://linkedin.com/in/jubin05)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=googlechrome&logoColor=black)](https://j05ubin.github.io)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jubin05)
+[![Portfolio](https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=googlechromek)](https://j05ubin.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jubin05)
 
 ## 💡 About Me
 
@@ -28,10 +27,10 @@
 - Applied data preprocessing and feature engineering to enhance model performance  
 - Trained and evaluated predictive models  
 - Deployed an interactive web app using Streamlit for real-time price estimation
-- 🔗 Live Demo: https://car-valuation-tool-jm.streamlit.app
-- 💻 GitHub Repo: https://github.com/J05ubin/Car-Valuation-Tool 
 
-  
+  [![Launnch App](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=rocket)]([https://j05ubin.github.io](https://car-valuation-tool-jm.streamlit.app))
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black)]([https://github.com/J05ubin/Air-Quality-Analysis-Dashboard](https://github.com/J05ubin/Car-Valuation-Tool ))
+ 
 🔹 Air Quality Analysis Dashboard  
 - Built interactive dashboard using Power BI  
 - Identified pollution trends across Indian cities
