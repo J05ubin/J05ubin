@@ -3,8 +3,8 @@
 
 🌐 [Portfolio](https://j05ubin.github.io) | 🔗 [LinkedIn](https://linkedin.com/in/jubin05)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://j05ubin.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jubin05)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://j05ubin.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jubin05)
 
 ## 💡 About Me
 
@@ -34,7 +34,7 @@
 🔹 Air Quality Analysis Dashboard  
 - Built interactive dashboard using Power BI  
 - Identified pollution trends across Indian cities
-- 💻 GitHub Repo: https://github.com/J05ubin/Air-Quality-Analysis-Dashboard
+[![GitHub Repo](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J05ubin/Air-Quality-Analysis-Dashboard)
 
 ## 📌 Currently: 
 
