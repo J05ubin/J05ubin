@@ -1,8 +1,7 @@
 # Hi, I'm Jubin Mazumdar 👋
 📊 Data Science Enthusiast  | 💻 Software Developer | 🎓 CSE Student
 
-🌐 [Portfolio Website](https://j05ubin.github.io)
-🔗 [LinkedIn](https://linkedin.com/in/your-username)
+🌐 [Portfolio](https://j05ubin.github.io) | 🔗 [LinkedIn](https://linkedin.com/in/jubin05)
 
 ## 💡 About Me
 
