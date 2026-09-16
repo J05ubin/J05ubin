@@ -1,64 +1,56 @@
-Hi, I'm Jubin Mazumdar 👋
-📊 Data Science Enthusiast | 💻 Software Developer | 🎓 CSE Student
+# Hi, I'm Jubin Mazumdar 👋
+📊 Data Science Enthusiast  | 💻 Software Developer | 🎓 CSE Student
 
-🌐 Portfolio • 🔗 LinkedIn
+🌐 [Portfolio](https://j05ubin.github.io) | 🔗 [LinkedIn](https://linkedin.com/in/jubin05)
 
-https://j05ubin.github.io  
-https://linkedin.com/in/jubin05
+[![Portfolio](https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=googlechromek&logoColor=black)](https://j05ubin.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jubin05)
 
-💡 About Me
-Passionate about problem-solving and software development
+## 💡 About Me
 
-Strong focus on Data Structures & Algorithms
+- Passionate about problem-solving and software development  
+- Focused on Data Structures & Algorithms  
+- Interested in building scalable web applications  
 
-Interested in building scalable web applications
+## 🛠️ Skills
 
-Exploring Data Science & Machine Learning
+💻 Languages: C++, Python, JavaScript  
+🌐 Web Development: HTML, CSS  
+🗄️ Databases: SQL  
+📚 Core Concepts: Data Structures & Algorithms  
+⚙️ Tools: Git, GitHub  
 
-🛠️ Skills
-Languages: C++, Python, JavaScript
+## 📂 Projects
 
-Web Development: HTML, CSS
+🔹 Car Valuation Tool  
+- Built an end-to-end machine learning pipeline for used car price prediction  
+- Applied data preprocessing and feature engineering to enhance model performance  
+- Trained and evaluated predictive models  
+- Deployed an interactive web app using Streamlit for real-time price estimation
 
-Databases: SQL
+  [![Launnch App](https://img.shields.io/badge/Launch_App-black?style=for-the-badge&logo=rocket)]([https://j05ubin.github.io](https://car-valuation-tool-jm.streamlit.app))
+  [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-white?style=for-the-badge&logo=github&logoColor=black)]([https://github.com/J05ubin/Air-Quality-Analysis-Dashboard](https://github.com/J05ubin/Car-Valuation-Tool ))
+ 
+🔹 Air Quality Analysis Dashboard  
+- Built interactive dashboard using Power BI  
+- Identified pollution trends across Indian cities
+  
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/J05ubin/Air-Quality-Analysis-Dashboard)
 
-Core Concepts: Data Structures & Algorithms
+## 📌 Currently: 
 
-Tools & Platforms: Git, GitHub, Streamlit, Power BI
+* Solving DSA problems daily
+* Building Web Development projects
+* Exploring Data Science
 
-📂 Projects
-🔹 Car Valuation Tool
-Developed an end-to-end machine learning pipeline for used car price prediction
+## 🏆 Achievements
 
-Applied data preprocessing and feature engineering to improve model accuracy
+* LeetCode 50 Days Streak
 
-Trained and evaluated predictive models
+## 📫 Contact
 
-Deployed an interactive Streamlit web app for real-time price estimation
+📧 Email: jubin05mazumdar@gmail.com  
+🔗 LinkedIn: linkedin.com/in/jubin05
+🌐 Portfolio: j05ubin.github.io 
 
-Launch App (car-valuation-tool-jm.streamlit.app in Bing)  
-https://github.com/J05ubin/Car-Valuation-Tool
-
-🔹 Air Quality Analysis Dashboard
-Built an interactive Power BI dashboard
-
-Analyzed and visualized pollution trends across Indian cities
-
-https://github.com/J05ubin/Air-Quality-Analysis-Dashboard
-
-📌 Currently
-Solving DSA problems daily
-
-Building Web Development projects
-
-Exploring Data Science applications
-
-🏆 Achievements
-LeetCode 50 Days Streak
-
-📫 Contact
-📧 Email: jubin05mazumdar@gmail.com
-🔗 LinkedIn: linkedin.com/in/jubin05  
-🌐 Portfolio: j05ubin.github.io
-
-⭐ Check out my repositories and feel free to connect with me!
+⭐ Feel free to check out my repositories and connect with me!
